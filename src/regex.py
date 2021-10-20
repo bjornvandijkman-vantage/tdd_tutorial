@@ -3,8 +3,8 @@ import pandas as pd
 
 df = pd.DataFrame(
     {
-        "text": ["5 euro", "7 euro", ""],
-        "row_number": [1, 2, 3],
+        "text": ["5 euro", "7 euro", "", "15 euro"],
+        "row_number": [1, 2, 3, 4],
     }
 )
 
